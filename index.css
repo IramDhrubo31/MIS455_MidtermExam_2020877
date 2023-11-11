@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav ul{
+    list-style-type: none;
+    padding: 10px 5px 10px 5px;
+    font-size: 24px;
+    overflow: hidden;
+    background-color: #334;
+}
+nav li{
+    float: right;
+}
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: coral;
+}
