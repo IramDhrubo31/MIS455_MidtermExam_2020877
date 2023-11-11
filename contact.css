@@ -30,6 +30,21 @@ nav li a{
 nav li a:hover{
     background-color: coral;
 }
+#contactSection{
+    display: flex;
+    gap: 2vw;
+}
+#contactImg img{
+    width: 700px;
+    height: 600px;
+}
+#contact{
+    margin-top: 20px;
+}
+#contact img{
+    width: 800px;
+    height: 300px;
+}
 
 footer{
     text-align: center;
@@ -39,7 +54,6 @@ footer{
     font-size: 24px;
     margin-top: 50px;
 }
-
-#footerColor{
-    color: #334;
+#nameColor{
+    color: chartreuse;
 }
