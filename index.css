@@ -2,12 +2,20 @@
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+nav{
+    background-color: #334;
+}
+nav h2{
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    padding: 10px 5px 10px 5px;
+}
 nav ul{
     list-style-type: none;
     padding: 10px 5px 10px 5px;
     font-size: 24px;
     overflow: hidden;
-    background-color: #334;
 }
 nav li{
     float: right;
@@ -21,4 +29,11 @@ nav li a{
 }
 nav li a:hover{
     background-color: coral;
+}
+
+.navSection img{
+    position: absolute;
+    top: 0%;
+    left: 20px;
+    height: 70px;
 }
