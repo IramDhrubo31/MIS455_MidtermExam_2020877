@@ -75,7 +75,6 @@ nav li a:hover{
     border-color: slategray;
     border-width: 4px;
 }
-
 footer{
     text-align: center;
     background-color: #1f1f1f;
@@ -84,7 +83,6 @@ footer{
     font-size: 24px;
     margin-top: 50px;
 }
-
-#footerColor{
-    color: #334;
+#nameColor{
+    color: chartreuse;
 }
