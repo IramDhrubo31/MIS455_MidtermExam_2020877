@@ -29,6 +29,8 @@ nav li a{
 }
 nav li a:hover{
     background-color: coral;
+    color: lime;
+    border-radius: 15px;
 }
 #contactSection{
     display: flex;

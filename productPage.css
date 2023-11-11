@@ -29,6 +29,8 @@ nav li a{
 }
 nav li a:hover{
     background-color: coral;
+    color: lime;
+    border-radius: 15px;
 }
 #title p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
